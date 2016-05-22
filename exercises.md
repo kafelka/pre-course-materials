@@ -58,5 +58,5 @@ You could find it convenient to **learn shortcuts and convenient commands** such
 
 If you run out of things to do, contact [Sam](https://github.com/shouston3) or [Franz](https://github.com/franzmoro) on Gitter.
 
-## [Home](https://github.com/foundersandcoders/pre-course-materials/edit/master/readme.md)
+## [Home](https://github.com/foundersandcoders/pre-course-materials/edit/master/README.md)
 
