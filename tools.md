@@ -7,4 +7,4 @@ We strongly recommend to use **[Atom](https://atom.io/)**. It's open source, has
 ### Setup tips (incl. Git, Command Line, Github)
 By now you should have already used git, github and your command line. Go through [this readme](https://github.com/dwyl/dev-setup) for a few setup tips on them and on  Atom.
 
-## [Home](https://github.com/foundersandcoders/pre-course-materials/edit/master/readme.md)
+## [Home](https://github.com/foundersandcoders/pre-course-materials/edit/master/README.md)
