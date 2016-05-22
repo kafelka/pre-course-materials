@@ -20,4 +20,4 @@ Everything you will need to know can be researched on:
 * [W3 Schools](http://www.w3schools.com)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
-## [Home](https://github.com/foundersandcoders/pre-course-materials/edit/master/readme.md)
+## [Home](https://github.com/foundersandcoders/pre-course-materials/edit/master/README.md)
